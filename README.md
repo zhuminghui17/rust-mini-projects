@@ -3,7 +3,7 @@
 Here is a lists of Rust mini projects I (will) create during my study at IDS721: Cloud Computing, Duke University, Spring 2023.
 
 * Week 1: [Rust CLI: Min-max Normalization](https://github.com/zhuminghui17/rust-week1-min-max-normalization) 
-* Week 2: 
+* Week 2: [Rust CLI: Random Keys Generator](https://github.com/zhuminghui17/rust-mini-random-keys)
 * Week 3:
 * Week 4:
 * Week 5: 
