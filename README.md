@@ -1,6 +1,6 @@
 # rust-mini-projects
 
-Here is a lists of Rust mini projects I (will) create during my study at IDS721: Cloud Computing, Duke University, Spring 2023.
+Here is a list of Rust mini projects I (will) create during my study at IDS721: Cloud Computing, Duke University, Spring 2023.
 
 * Week 1: [Rust CLI: Min-max Normalization](https://github.com/zhuminghui17/rust-week1-min-max-normalization) 
 * Week 2: [Rust CLI: Random Keys Generator](https://github.com/zhuminghui17/rust-mini-random-keys)
